@@ -9,6 +9,7 @@
                                                                                                                                                         
                                                                                                                                                       
 Bash script the hides your Kali Linux Machine
+ 
  Convert Line Endings to Unix Format:
   Use dos2unix to fix the file:
   ```dos2unix MITS.sh```
